@@ -73,9 +73,3 @@ class DataConexion:
 
 # Crear una instancia de la clase DataConexion
 data_conexion = DataConexion()
-
-# Ejemplo de ejecución de procedimientos almacenados con resultados
-# result_1 = data_conexion.ejecutar_procedure('sp_actualizar_admin', [param1, param2, ...])
-# result_2 = data_conexion.ejecutar_procedure('sp_borrar_admin', [param1])
-# result_3 = data_conexion.ejecutar_procedure('sp_crear_admin', [param1, param2, ...])
-# result_4 = data_conexion.ejecutar_procedure('sp_ver_administradores', [])
